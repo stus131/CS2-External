@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JellyCS2_Finale/JellyCS2_Finale.vcxproj" Id="8a9b884f-2dcb-4d0e-b557-cec3f62066ac" />
+</Solution>
